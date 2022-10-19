@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Class3 {
 //Prime Numbers
+//ethem is late here
     static boolean checkForPrime(int inputNumber) {
         boolean isItPrime = true;
         if (inputNumber <= 1) {

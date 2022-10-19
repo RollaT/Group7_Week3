@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Class2 {
 
     //Armstrong Numbers
-
+//ethem is late here
     public static void main(String[] args) {
 
         System.out.println("Enter a 3 digit number to check if it is an Armstrong number:");
