@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Class1 {
 //Reverse Negatives
+    //ethem is late here!
     public static void main(String[] args) {
 
         System.out.println("Enter the number that you want to reverse: ");
